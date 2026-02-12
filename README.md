@@ -23,6 +23,8 @@ I'm a **Cyber Security student** at **Plymouth University** with a passion for *
 ### [LogSmart](https://logsmart.app) [git](https://github.com/Plymouth-University/comp2003-2025-2026-group-2)
 **Digital Food Safety & Compliance Platform**
 
+<a href="https://logsmart.app"><img src="logsmart.png" width="600" alt="LogSmart Screenshot"></a>
+
 A template-based digital logging system for the food service industry. Features AI-powered template generation, real-time dashboards, and audit-ready digital records.
 
 `Svelte` `Bun` `Rust` `Axum` `Docker` `Oracle Cloud` `GitHub Actions`
@@ -31,6 +33,8 @@ A template-based digital logging system for the food service industry. Features 
 
 ### [LittyPicky](https://littypicky.nullstring.one) [git](https://github.com/nullstring1/littypicky)
 **Community Cleanup Platform**
+
+<a href="https://littypicky.nullstring.one"><img src="littypicky.png" width="600" alt="LittyPicky Screenshot"></a>
 
 A gamified platform for reporting and cleaning up litter. Users report messy spots, clean them up, and earn points while making their neighborhoods shine.
 
