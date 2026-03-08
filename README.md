@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a **Cyber Security student** at **Plymouth University** with a passion for **reverse engineering**, **low-level systems**, and **security research**
+I'm a **Cyber Security student** at **Plymouth University** with a passion for **reverse engineering**, **low-level systems**, and **security research**. Active NixOS maintainer
 
 ---
 
