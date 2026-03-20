@@ -31,7 +31,7 @@ A template-based digital logging system for the food service industry. Features 
 
 ---
 
-### [LittyPicky](https://littypicky.nullstring.one) [git](https://github.com/nullstring1/littypicky)
+### [LittyPicky](https://littypicky.app) [git](https://github.com/nullstring1/littypicky)
 **Community Cleanup Platform**
 
 <a href="https://littypicky.app"><img src="littypicky.png" width="600" alt="LittyPicky Screenshot"></a>
