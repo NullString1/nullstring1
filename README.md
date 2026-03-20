@@ -34,7 +34,7 @@ A template-based digital logging system for the food service industry. Features 
 ### [LittyPicky](https://littypicky.nullstring.one) [git](https://github.com/nullstring1/littypicky)
 **Community Cleanup Platform**
 
-<a href="https://littypicky.nullstring.one"><img src="littypicky.png" width="600" alt="LittyPicky Screenshot"></a>
+<a href="https://littypicky.app"><img src="littypicky.png" width="600" alt="LittyPicky Screenshot"></a>
 
 A gamified platform for reporting and cleaning up litter. Users report messy spots, clean them up, and earn points while making their neighborhoods shine.
 
